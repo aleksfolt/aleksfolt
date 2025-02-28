@@ -13,7 +13,6 @@ const skills = {
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksfolt&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksfolt&layout=compact&theme=radical)
 
 ## 🔗 Connect with me:
