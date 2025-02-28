@@ -1,12 +1,21 @@
-# 👋 Hi, I'm FOLT!
+# ✨ Hi there, I'm FOLT! ✨
 
-## Backend Developer
+## 👨‍💻 Backend Developer
 
-Specialized in TypeScript, Python, PostgreSQL, MongoDB and SQLite.
+```typescript
+const skills = {
+  languages: ["TypeScript", "Python"],
+  databases: ["PostgreSQL", "MongoDB", "SQLite"],
+  currentlyLearning: ["Docker", "AWS"]
+};
+```
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleksfolt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksfolt&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleksfolt&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksfolt&layout=compact&theme=radical)
+
+## 🔗 Connect with me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aleksfolt)
