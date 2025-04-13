@@ -27,5 +27,8 @@
     },
     "editor.unicodeHighlight.nonBasicASCII": false,
     "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
-    "editor.fontWeight": "900"
+    "editor.fontWeight": "900",
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "smooth"
 }
