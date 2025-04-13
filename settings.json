@@ -1,0 +1,31 @@
+#My vscode settings
+{
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "terminal.integrated.fontSize": 13,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "database-client.autoSync": true,
+    "explorer.fileNesting.patterns": {
+        "*.ts": "${capture}.js",
+        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+        "*.jsx": "${capture}.js",
+        "*.tsx": "${capture}.ts",
+        "tsconfig.json": "tsconfig.*.json",
+        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+        "pubspec.yaml": "pubspec.lock,pubspec_overrides.yaml,.packages,.flutter-plugins,.flutter-plugins-dependencies,.metadata",
+        "*.dart": "${capture}.g.dart",
+        "*.sqlite": "${capture}.${extname}-*",
+        "*.db": "${capture}.${extname}-*",
+        "*.sqlite3": "${capture}.${extname}-*",
+        "*.db3": "${capture}.${extname}-*",
+        "*.sdb": "${capture}.${extname}-*",
+        "*.s3db": "${capture}.${extname}-*"
+    },
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "900"
+}
